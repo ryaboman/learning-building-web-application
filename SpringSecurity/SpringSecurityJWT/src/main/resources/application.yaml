@@ -1,11 +1,6 @@
 spring:
   application:
-    name: SpringSecurity
-
-  datasource:
-    url: jdbc:postgresql://192.168.31.101:5432/nt_system
-    username: root
-    password: 123456
+    name: SpringSecurityJWT
 
 
 secret:
